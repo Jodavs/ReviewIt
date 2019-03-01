@@ -1,4 +1,15 @@
-# BDSA-PROJECT
-The bdsa exam project
+# BDSA-Project
 
-Lucas was here. Fixing stuff.s
+The exam project for the course Analysis, Design and Software Architecture at the [IT University of Copenhagen](https://itu.dk)
+
+## Authors
+
+- Anton Mølbjerg Eskildsen  
+
+- Jakob Staugaard  
+
+- Jonleif Huneck Davidsen  
+
+- Jannik Munk Bryld
+
+- Lucas Schønrock  
